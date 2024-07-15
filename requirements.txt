@@ -17,3 +17,4 @@ python-geoip-geolite2==2014.0207
 python-mimeparse==0.1.4
 six==1.7.3
 wsgiref==0.1.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
